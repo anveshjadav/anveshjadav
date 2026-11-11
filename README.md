@@ -2,9 +2,11 @@
 
 ### **Senior Electrical & Automation Engineer | Software Developer**
 
-📍 Based in Gujarat, India  
+📍 Based in Surat, Gujarat, India  
 📧 [anveshjadav@gmail.com](mailto:anveshjadav@gmail.com)  
 🌐 [GitHub Profile](https://github.com/anveshjadav)
+🌐 [Photography - Personal Website](https://anveshjadav.com)
+📲 [My Analog Scaling Application](https://play.google.com/store/apps/details?id=com.anveshjadav.analogscaling&hl=en_IN)
 
 ---
 
@@ -36,14 +38,7 @@ Simultaneously, I build software applications using **C#**, **ASP.NET Core**, **
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anveshjadav&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Anvesh's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anveshjadav&layout=compact&theme=radial&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
-</div>
 
 ---
 
@@ -57,7 +52,7 @@ Simultaneously, I build software applications using **C#**, **ASP.NET Core**, **
 ## 📬 Connect with Me
 
 * ✉️ **Email:** [anveshjadav@gmail.com](mailto:anveshjadav@gmail.com)
-* 🏢 **Location:** Bharuch / Surat, Gujarat, India
+* 🏢 **Location:** Surat, Gujarat, India
 
 ---
 
